@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there, I'm Jose 🤓 - aka Lums 👋
 
-<!--
-**Lums31/Lums31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Don't imitate... , Understand  🤔
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/website?label=cleverform.org&style=for-the-badge&url=https%3A%2F%2Fcleverform.org)](https://cleverform.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Jose C. II, a passionate self-taught / [bootcamp](https://zuitt.co) trained fullstack web developer 💻
+
+- 🔭 I’m currently working on my project [cleverform.js](https://cleverform.org)
+- 🌱 I’m currently mastering vanilla JS 🤣 while deep diving React. Wait for me Vue... 😉 
+- 🥅 2020 Goals: Release v1.0  of `cleverform.js` 
+- 📚 Programming books : [JavaScript: The Good Parts](https://www.goodreads.com/book/show/2998152-javascript) and [Learning Javascript Design Patterns](https://www.goodreads.com/book/show/14289134-learning-javascript-design-patterns)
+- ⚡ Fun fact: I love to play guitar, cook great food, play computer games, and doing DIY stuff. 
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jcii)
+
+<br />
+
+### Languages and Tools:
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+---
