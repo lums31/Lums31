@@ -1,3 +1,5 @@
+<img src='https://raw.githubusercontent.com/Lums31/Lums31/master/workspace.jfif' alt='Workspace' style='opacity: 0.5;'>
+
 ### Hi there, I'm Jose 🤓 - aka Lums 👋
 
 > Don't imitate... , Understand  🤔
