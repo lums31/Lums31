@@ -1,17 +1,16 @@
 <img src='https://raw.githubusercontent.com/Lums31/Lums31/master/workspace.jfif' alt='Workspace' style='opacity: 0.5;'>
 <small><i>( My home workspace )</i></small>
 
-### Hi there, I'm Jose 🤓 - aka Lums 👋
+### Hi there, I'm lums 👋
 
 > Don't imitate... , Understand  🤔
 
 [![Website](https://img.shields.io/website?label=cleverform.org&style=for-the-badge&url=https%3A%2F%2Fcleverform.org)](https://cleverform.org)
 
-Hi, I'm Jose C. II, a passionate self-taught / [bootcamp](https://zuitt.co) trained fullstack web developer 💻
+A passionate self-taught / [bootcamp](https://zuitt.co) trained fullstack web developer 💻
 
-- 🔭 I’m currently working on my project [cleverform.js](https://cleverform.org)
-- 🌱 I’m currently mastering vanilla JS 🤣 while deep diving React. Wait for me Vue... 😉 
-- 🥅 2020 Goals: Release v1.0  of `cleverform.js` 
+- 🔭 Check [cleverform.js](https://cleverform.netlify.app/) for HTML form validation, my mini library.
+- 🌱 I’m currently mastering vanilla JS...
 - 📚 Programming books : [JavaScript: The Good Parts](https://www.goodreads.com/book/show/2998152-javascript) and [Learning Javascript Design Patterns](https://www.goodreads.com/book/show/14289134-learning-javascript-design-patterns)
 - ⚡ Fun fact: I love to play guitar, cook great food, play computer games, and doing DIY stuff. 
 
