@@ -1,11 +1,10 @@
 <img src='https://raw.githubusercontent.com/Lums31/Lums31/master/workspace.jfif' alt='Workspace' style='opacity: 0.5;'>
-<small><i>( My home workspace )</i></small>
 
 ### Hi there, I'm lums 👋
 
 > Don't imitate... , Understand  🤔
 
-[![Website](https://img.shields.io/website?label=cleverform.org&style=for-the-badge&url=https%3A%2F%2Fcleverform.org)](https://cleverform.org)
+<!-- [![Website](https://img.shields.io/website?label=cleverform.org&style=for-the-badge&url=https%3A%2F%2Fcleverform.org)](https://cleverform.org) -->
 
 A passionate self-taught / [bootcamp](https://zuitt.co) trained fullstack web developer 💻
 
